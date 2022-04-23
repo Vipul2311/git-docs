@@ -17,4 +17,6 @@ git remote add origin git@github.com:Vipul2311/git-docs.git
 git branch -M main
 git push -u origin main
 
-Thank You
+steps for pull
+
+Thank You.
